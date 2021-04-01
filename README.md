@@ -1,2 +1,2 @@
-This is uBlock offical code.
+This is uBlock official code.
 Just for myself to test adblock on mobile.
