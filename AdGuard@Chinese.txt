@@ -386,8 +386,8 @@ nfmovies.com#$?#body > .hidden-xs > div[id]:has(> img[src^="/static/"][onclick^=
 nfmovies.com#$?#div[id^="aaaDiv"] { remove: true; }
 !
 !
-dcard.tw#?#div[data-index] > article:contains(ÙÖú»î„Ó)
-sharonlife.tw#?##sidebar > div.widget:has(> h4:contains(V¸æ))
+dcard.tw#?#div[data-index] > article:contains(è´ŠåŠ©æ´»å‹•)
+sharonlife.tw#?##sidebar > div.widget:has(> h4:contains(å»£å‘Š))
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 v2ex.com#?##Rightbar > div.box:has(> div.inner a[target="_blank"] > img[src*="cdn.v2ex.com/assets/sidebar/"])
@@ -13643,7 +13643,7 @@ zuanke8.com##.zuanpw
 19lou.com##.zx-link
 17house.com##.zx_xrhb
 iqiyi.com##.zzVideo
-12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/¹ã¸æ|ÍÆ¼ö/))
+12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/å¹¿å‘Š|æŽ¨è/))
 159i.com#?#.style15:-abp-has(> img[src="//159i.com/images/arrow3.gif"])
 159i.com#?#:-abp-has(> img+a)
 159i.com#?#:-abp-has(> img[src*="gif"])
@@ -13999,20 +13999,20 @@ aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 pinggu.org##a[target="_blank"][href*=".cda.cn"]
 muchong.com##a[target="_blank"][style="display: inherit!important;"]
 pixiv.net##a[target="premium_noads"]
-youz4.com##a[title*="¹ã¸æ"]
-ainuody.com##a[title*="ºì°ü"]
+youz4.com##a[title*="å¹¿å‘Š"]
+ainuody.com##a[title*="çº¢åŒ…"]
 creaders.net##a[title^="www.136888.com/"]
 gameinns.com##a[url^="/api/ads?"]
 duba.com##a[w="topad"]
-ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/ºì°ü|ÌÔ±¦/))
+ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/çº¢åŒ…|æ·˜å®/))
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 idanmu.im##aside > div[class="widget "]
 xinshouzhanzhang.com##aside[id^="text-"]
-assbbs.com#?#.top_3:-abp-has(a:-abp-contains(¹ã¸æ))
+assbbs.com#?#.top_3:-abp-has(a:-abp-contains(å¹¿å‘Š))
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 baidu.com#?#.c-gap-bottom-small:-abp-has(>a>div>div[class^="jr-stock-open-account-"])
 baidu.com#?#.ec_wise_ad
-bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(¹ã¸æ))
+bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(å¹¿å‘Š))
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]))
 api.so.lianmeng.360.cn,pos.baidu.com##body
@@ -14463,20 +14463,20 @@ firefoxchina.cn##div[trace-key="ad_theme_skin_link"]
 firefoxchina.cn##div[trace-key="mh_channel_rec_tpth"]
 zuoye.baidu.com##dl[class="card related"]
 douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
-douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(¸£Àû))
+douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(ç¦åˆ©))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
-ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(Öú))
+ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(åŠ©))
 bbs.my0511.com##embed[width="970"][height="70"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 aae3.com##form + center > p[align="center"]
-guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(¹ã¸æ))
+guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(å¹¿å‘Š))
 cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
-ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(ÍÆ¹ã))
+ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(æŽ¨å¹¿))
 sina.cn##iframe[id^="sinaadtk_"]
-image.so.com#?#.cell:-abp-has(.txt:-abp-contains(¹ã¸æ))
-image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(¹ã¸æ))
-xblian.com##img[alt*="¹ã¸æ"]
+image.so.com#?#.cell:-abp-has(.txt:-abp-contains(å¹¿å‘Š))
+image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(å¹¿å‘Š))
+xblian.com##img[alt*="å¹¿å‘Š"]
 qq.com##img[data-module="advertisement"]
 gucheng.com##img[data-mv-ad]
 eworldship.com##img[height="70"]
@@ -14527,8 +14527,8 @@ ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
 jianshu.com#?#div[id]:-abp-has(> .ad-badge)
 jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
-kostool.cn#?#div:-abp-has(> h1:-abp-contains(ÍÆ¹ã))
-lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(¹ã¸æ))
+kostool.cn#?#div:-abp-has(> h1:-abp-contains(æŽ¨å¹¿))
+lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(å¹¿å‘Š))
 hk.yahoo.com##li[class="js-stream-content Cf Pos-r RevealNested      "][data-uuid]:not([data-uuid*="-"])
 yahoo.com##li[class^="gemini-ad-"]
 3g.qq.com##li[data-adtype="qbad"] > a[class^="type"]
@@ -14541,19 +14541,19 @@ user.qzone.qq.com##li[id^="fct_20050606_"]
 3g.qq.com##li[id^="feed-omgad-"]
 13mv.com##li[id^="media_image-"]
 rjfcw.cn##li[style*="1200px"]
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/´ÙäNƒÈÈÝ|¹ã¸æ/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/´ÙäNƒÈÈÝ|¹ã¸æ/))
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/ä¿ƒéŠ·å…§å®¹|å¹¿å‘Š/))
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/ä¿ƒéŠ·å…§å®¹|å¹¿å‘Š/))
 m.mydrivers.com#?#.cnewsinfo > p:-abp-has(.f14_link + br + .f14_link)
-m.thepaper.cn#?#.t_news:-abp-has(img[alt="¹ã¸æ"])
+m.thepaper.cn#?#.t_news:-abp-has(img[alt="å¹¿å‘Š"])
 muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> br + a)
 mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> div > a)
 mydrivers.com#?#.news_info > p:last-of-type:-abp-has(> br + a)
 mydrivers.com#?#.news_info > p:nth-last-of-type(2):-abp-has(> br + a)
-news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(¹ã¸æ))
-news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(¹ã¸æ)
+news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(å¹¿å‘Š))
+news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(å¹¿å‘Š)
 nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
-nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(¹ã¸æ))
+nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(å¹¿å‘Š))
 china.com##object[width="360"][height="300"]
 sina.com.cn##p + .article-video
 benyixiwang.com##p img[src*=".dlssyht.cn/u/"][title]
@@ -14562,8 +14562,8 @@ aeink.com##p[style*=".alicdn.com/"]
 aeink.com##p[style*="82px;background:"]
 itkeyword.com##p[style="line-height:1.4; margin-top:8px; margin-bottom:10px;"]
 isiyuan.net#?##page-list > ul > .layui-row:-abp-has(.ad)
-ruanyifeng.com#?#.asset-content > p:-abp-contains(ÅàÑµ)
-ruanyifeng.com#?#.asset-content > p:-abp-contains(ÅàÑµ) + p > img
+ruanyifeng.com#?#.asset-content > p:-abp-contains(åŸ¹è®­)
+ruanyifeng.com#?#.asset-content > p:-abp-contains(åŸ¹è®­) + p > img
 samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 gdot.me,sc115.com,wnacg.com,wnacg.org##script + a
 logo160.com##script + a[href="/"]
@@ -14657,16 +14657,16 @@ poxiaotv.com##video[onclick]
 toolfk.com##wavy + div[style]
 toolfk.com##wavy ~ a
 weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
-weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(¹ã¸æ))
+weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(å¹¿å‘Š))
 weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 x3cn.com#?#.commonDiv:-abp-has(.ad)
 x6d.com#?#li:-abp-has(>.myad)
 xbyuan.com#?#li:-abp-has(>.myad)
-yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(ÑÅ»¢ËÑŒ¤))
-yahoo.com#?#.js-stream-content:-abp-has(p:-abp-contains(ŸáéTËÑŒ¤))
-yahoo.com#?#.js-stream-content:-abp-has(span:-abp-contains(¼´ÈÕŸáËÑ))
-yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(¼´ÈÕŸáËÑ))
+yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(é›…è™Žæœå°‹))
+yahoo.com#?#.js-stream-content:-abp-has(p:-abp-contains(ç†±é–€æœå°‹))
+yahoo.com#?#.js-stream-content:-abp-has(span:-abp-contains(å³æ—¥ç†±æœ))
+yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(å³æ—¥ç†±æœ))
 yahoo.com#?#.stream-items[data-wf-beacons]
 yahoo.com#?#div[class^="Pos(a) H"]:-abp-has(> a[class^="LineClamp"][href^="https://b.gemini."])
 zhangxinxu.com#?#.top_da_out
@@ -15515,7 +15515,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com###r_share
 17ce.com###s_rows
 17ce.com#?#:-abp-has(>.add_img)
-17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/·þ|¸ß/))
+17ce.com#?#div:-abp-has(>div>ul>li>a:-abp-contains(/æœ|é«˜/))
 17ce.com##[style*="important"]
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
@@ -16453,8 +16453,8 @@ bejson.com##a[href*="/kuaikuai."]
 bejson.com##a[href*="layui.com"]
 bejson.com#?#:-abp-has(> [data-href*="://t.cn/"])
 bejson.com#?#:-abp-has(> a[href*="://t.cn/"])
-bejson.com#?#body>:-abp-contains(ÐÂÈË»á³¡)
-bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(Ïã¸Û))
+bejson.com#?#body>:-abp-contains(æ–°äººä¼šåœº)
+bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(é¦™æ¸¯))
 bejson.com##div[id^="shua"] + font[color="red"]
 bejson.com##div[id^="shuangshi"]
 bejson.com##img[src^="data"]
@@ -16600,8 +16600,8 @@ ddooo.com##.gadat_list
 ddooo.com##.gs_list
 ddooo.com##.guoasu
 ddooo.com##.xzbtn
-ddooo.com#?#span:-abp-has(>p:-abp-contains(¸ßËÙ))
-ddooo.com#?#ul:-abp-has(>dd:-abp-contains(¸ßËÙ))
+ddooo.com#?#span:-abp-has(>p:-abp-contains(é«˜é€Ÿ))
+ddooo.com#?#ul:-abp-has(>dd:-abp-contains(é«˜é€Ÿ))
 !#Dlkoo.cc
 @@||8ox.cn/pge/?s=$script,domain=dlkoo.cc
 @@||alicdn.com/t/img/TB1DmcoJXXXXXavXpXXXXXXXXXX-26-26.png$domain=dlkoo.cc
@@ -18823,10 +18823,10 @@ rjno1.com##div[style="display:none"]
 redircdn.com##.al
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/¶Ä|Óé|°Ä/)) > :nth-child(-n+155)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/¶Ä|Óé|°Ä/)) > :nth-child(-n+170)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/¶Ä|Óé|°Ä/)) > :nth-child(-n+188)
-rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/¶Ä|Óé|°Ä/)) > :nth-child(-n+195)
+rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/èµŒ|å¨±|æ¾³/)) > :nth-child(-n+155)
+rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/èµŒ|å¨±|æ¾³/)) > :nth-child(-n+170)
+rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/èµŒ|å¨±|æ¾³/)) > :nth-child(-n+188)
+rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/èµŒ|å¨±|æ¾³/)) > :nth-child(-n+195)
 t66y.com##.sptable_do_not_remove
 t66y.com##.tips
 ||22588888.com^$popup
@@ -18902,7 +18902,7 @@ baike567.com,wuhaozhan.net##[onclick*="open"]
 baike567.com,wuhaozhan.net##a[href*=".click"]
 baike567.com,wuhaozhan.net##a[href*="otb."]
 baike567.com,wuhaozhan.net##a[onclick*=".tmall.com"]
-baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/[0-9]Ôª|ÉúÏÊ|Ë«1|ÃÀÍÅ|»î¶¯|¾©¶«|Äê»õ|ºì°ü|Ö§¸¶|ÌìÃ¨/))
+baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/[0-9]å…ƒ|ç”Ÿé²œ|åŒ1|ç¾Žå›¢|æ´»åŠ¨|äº¬ä¸œ|å¹´è´§|çº¢åŒ…|æ”¯ä»˜|å¤©çŒ«/))
 baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
 baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 baike567.com,wuhaozhan.net##div[class^="hongbao"]
